@@ -41,7 +41,7 @@ body {
 }
 
 .logo span {
-    color: #0070f3; /* Professional Blue accent */
+    color: #0070f3; 
 }
 
 .nav-links {
@@ -166,3 +166,4 @@ footer {
     .nav-links { display: none; } 
 
 }
+
